@@ -1,4 +1,4 @@
-# Welcome to complex analysis course
+# Welcome to classical mechanics course
 
 This page is dedicated to the course of classical mechanics taught at the university department of mathematics, Tilka Manjhi Bhagalpur University, Bhagalpur.
 

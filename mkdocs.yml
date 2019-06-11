@@ -1,5 +1,5 @@
 site_name: Classical Mechanics
-site_url: https://sandeepsuman.com/classical-mehchanics/
+site_url: https://sandeepsuman.com/classical-mechanics/
 nav:
   - Home: index.md
   - Assignments: assignments.md

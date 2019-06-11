@@ -1,5 +1,5 @@
 site_name: Classical Mechanics
-site_url: https://sandeepsuman.com/classical-mehchanics/
+site_url: https://sandeepsuman.com/classical-mechanics/
 nav:
   - Home: index.md
   - Assignments: assignments.md
@@ -58,10 +58,10 @@ markdown_extensions:
 
 extra_javascript:
   - 'https://cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
-  - '/complex-analysis/static/js/app.js'
+  - '/classical-mechanics/static/js/app.js'
 
 extra_css:
-  - '/complex-analysis/static/stylesheets/extra.css' # depends on theme
+  - '/classical-mechanics/static/stylesheets/extra.css' # depends on theme
 
 
 google_analytics: ['UA-140256543-1', 'sandeepsuman.com']
