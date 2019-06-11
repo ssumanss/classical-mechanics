@@ -87,7 +87,7 @@
 }());
 
 // service worker function
-const cacheName = 'v1';
+const cacheName = 'classical-mechanics-v1';
 
 // Call Install Event
 self.addEventListener('install', e => {
