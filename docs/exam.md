@@ -3,12 +3,31 @@
 The course has two exams one is internal of 15 marks, while the other is final worth 70 marks. Rest marks are part of continuous assessment that belongs to attendance, seminar and assignments. Practice the following question for exams
 
 * Unit 1
-    * Calculating contour integral using parametrization of curve.
-    * Use path independence when antiderivative exists.
-    * Use Cauchy theorem when function is analytic
+    * Finding degree of freedom and setting generalized coordinate
+    * Method of virtual work
+    * D'Alembert principle
 * Unit 2
-    * Use Cauchy integral formula to find integration along closed contour.
-    * Use Cauchy integral formula to find integration along closed contour.
+    * Find position, velocity, KE, PE in terms of genralized coordinate
+    * Finding generalized velocity, momentum and force
+    * Finding Lagrange equation of motion(2nd Kind)
+    * Finding Lagrangian of the system
+    * Lagrange equation of motion for conservative system
+    * Identify cyclic coordinate
+* Unit 3
+    * Fnding Hamiltonian from Lagrangian
+    * Hamiltonian equation of motion
+    * Hamiltonian and Hamilton's equation of motion for conservative system
+* Unit 4
+    * Calculus of variation
+    * Hamilton's principle as variational principle
+    * Segnificance of Hamilton's principle
+* Unit 5
+    * Attraction of rod, disc, hollow sphere and solid sphere
+    * Relation between attraction and potential 
+    * Potential of rod, disc, hollow sphere and solid sphere
+
+!!! warning "Important"
+    Practice systems consist of pendulums, pullyes, springs, wedges, blocks and cylinders.
 
 
 ## Internal Exam

@@ -87,7 +87,7 @@
 }());
 
 // service worker function
-const cacheName = 'v2';
+const cacheName = 'v1';
 
 // Call Install Event
 self.addEventListener('install', e => {

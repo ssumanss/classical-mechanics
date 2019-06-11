@@ -1,42 +1,46 @@
 # Welcome to complex analysis course
 
-This page is dedicated to the course of complex analysis taught at the university department of mathematics, Tilka Manjhi Bhagalpur University, Bhagalpur.
+This page is dedicated to the course of classical mechanics taught at the university department of mathematics, Tilka Manjhi Bhagalpur University, Bhagalpur.
 
 ## Syllabus
 
-- Contour Integration
-- Cauchy Integral Formula and Related Theorems
-- Power and Laurents Series
-- Singularities
-- Rouches theorem
+- Generalized coordinate
+- Method of virtual work
+- D'Alemberts principle
+- Lagrange equation of motion
+- Genralized momentum
+- Calculus of Variation
+- Hamilton's principle
+- Hamilton's equation of motion
+- Phase space
 
 ## Objectives
 
-The course ==Complex Analysis== focussed on the study of properties of complex functions. This is the second course on complex analysis in TMBU, Bhagalpur. The first course mainly introduce the concept of differentiability and analyticity in complex domains. Here we will discuss the integration in the sense of complex functions.
+The course ==classical mechanics== focussed on the study of new formalism of Newtonian mechanics given by Lagrange and Hamlton. Lagrange found that the motion can be derived in any coordinate system, while Hamilton give a principle which describes the motion of all classical mechanics in one line. Hamilton's principle is turn out to be extended in other areas of physics like electrodynamics and quantum mechanics. 
 
-- [x] Understand contour integration
-- [x] Apply Cauchy integral formula
-- [x] Important results based on CIF
-- [ ] Ability to represent complex function as Power and Laurents series
-- [ ] Understand different type of singularity
-- [ ] Rouches theorem and application
+- [ ] Identify degree of freedom
+- [ ] Setup a generalized coordinate
+- [ ] Represent the position, velocity, etc., in terms of generalized coordinate
+- [ ] Esteblish Lagrange equation of motion
+- [ ] Importance of Hamilton's principle
+- [ ] Identify genralized momentum and cyclic coordinate
+- [ ] Find Hamilton's equation of motion
 
 ## References
 
-- Foundations Of Complex Analysis by S. Ponnusamy
-- Complex Variable: Schaum's Outlines Series
-- [Complex Analysis by Beck](http://math.sfsu.edu/beck/papers/complex.pdf)
+- Classical Mechanics by Gregory(Chapters 11, 12 and 13)
+- Classical Mechanics by Goldstein
 
 ## Routine
 
 | Weekday | 1st Period | 2nd Period | 3rd Period | 4th Period | 5th Period |
 |---------|------------|------------|------------|------------|------------|
-| MON     |            |            | CA         |            |            |
-| TUE     |            |            | CA         |            |            |
-| WED     | CA         |            |            |            |            |
-| THR     | CA         |            |            |            |            |
-| FRI     |            | CA         |            |            |            |
-| SAT     |            | CA         |            |            |            |
+| MON     | CM         |            |            |            |            |
+| TUE     | CM         |            |            |            |            |
+| WED     |            |            |  CM        |            |            |
+| THR     |            |            |  CM        |            |            |
+| FRI     |            | CM         |            |            |            |
+| SAT     |            | CM         |            |            |            |
 
 ## Instructor
 
