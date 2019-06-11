@@ -1,5 +1,5 @@
 if ('serviceWorker' in navigator) {
-  const newLocal = '/classical-mechanics/sw.js';
+  const newLocal = '/classical-mechanics/swcm.js';
   navigator.serviceWorker.register(newLocal).then(function(registration) {
     console.log('ServiceWorker registration successful!');
   }).catch(function(err) {
