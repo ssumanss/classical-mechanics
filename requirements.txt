@@ -13,7 +13,7 @@ jupyter-core==4.4.0
 livereload==2.6.0
 Markdown==3.1
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 mkdocs==1.0.4
 mkdocs-material==4.2.0
 mknotebooks==0.1.6
